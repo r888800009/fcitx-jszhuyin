@@ -1,0 +1,10 @@
+[Addon]
+Name=fcitx-jszhuyin
+_GeneralName=Jszhuyin Addon of Fcitx
+_Comment=
+Category=Module
+Enabled=True
+Library=fcitx-jszhuyin.so
+Type=SharedLibrary
+Dependency=
+Priority=80
